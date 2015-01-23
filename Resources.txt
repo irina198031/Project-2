@@ -1,0 +1,6 @@
+Hi,
+Find below the list of web sites I referred to in this submission: 
+
+-https://developer.mozilla.org
+-http://www.w3schools.com/js/
+-http://stackoverflow.com/
